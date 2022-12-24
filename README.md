@@ -4,6 +4,6 @@ My name is Ricardo Gama and I'm 21 years old.
 
 
 - 🔭 I’m currently a 3rd year student of Software Engineering at @UMinho. 📖
-- 📫 How to reach me: 
+- 📫 How to reach me: www.linkedin.com/in/ricardo-gama08
 - 👀 Big fan of F1, Cycling and Football.
 - ⚡ Fun fact: I am a Football Player
